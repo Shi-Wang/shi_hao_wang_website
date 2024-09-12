@@ -1,0 +1,8 @@
+---
+title: "About"
+---
+
+Contact information:\
+Phone: (123)-123-1234\
+Email: email@gmail.com
+

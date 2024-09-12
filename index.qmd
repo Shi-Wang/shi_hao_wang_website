@@ -1,0 +1,8 @@
+---
+title: "Shi Hao's Page"
+---
+
+Hello, welcome to my webpage! I am Shi Hao, a fourth year Mathematics student studying at the University of Toronto. Contact me if you would like to get in touch and form study groups!
+
+Here's some math that I'm currently working on:
+$$1 + 1 = 2$$

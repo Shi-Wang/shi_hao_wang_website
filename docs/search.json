@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Contact information:\nPhone: (123)-123-1234\nEmail: email@gmail.com"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shi Hao’s Page",
+    "section": "",
+    "text": "Hello, welcome to my webpage! I am Shi Hao, a fourth year Mathematics student studying at the University of Toronto. Contact me if you would like to get in touch and form study groups!\nHere’s some math that I’m currently working on: \\[1 + 1 = 2\\]"
+  }
+]
